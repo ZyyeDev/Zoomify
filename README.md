@@ -10,3 +10,6 @@ Allows you to zoom while on the pause menu
 ## Mobile
 - Press the <cy>Magnifying Glass</c> button in the pause menu to enter zoom mode
 - Pinch to zoom, use the back button in the top left to exit
+
+
+Mod based on [Zoooom!](https://github.com/BobbyShmurner/Zoom)
